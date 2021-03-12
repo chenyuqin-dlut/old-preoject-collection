@@ -80,7 +80,7 @@
 大一学.NET的时候参考网上博客写的一个局域网通信程序，用的socket通信
 
 程序界面，分客户端和服务器
-<img src="img/jywtx1.png" width=100%  />
+<img src="img/jywtx1.png" width=50%  />
 
 结构图和流程图
 <img src="img/jywtx3.png" width=100%  />
@@ -106,7 +106,7 @@
 
 数据库结构
 
-<img src="img/zxgl2.png" width=100%  />
+<img src="img/zxgl2.png" width=50%  />
 
 报名页面和籍贯的二级联表
 
