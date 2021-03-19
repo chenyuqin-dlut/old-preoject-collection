@@ -42,9 +42,11 @@
 
 <img src="img/bysj2.png" />
 
-<img src="img/bysj3.png" />
 
-<img src="img/bysj4.png" />
+|||
+|--|--|
+| <img src="img/bysj3.png" width="80%"> | <img src="img/bysj4.png"> |
+
 
 
 ## “elab招新”、“elab选课”、“elab考勤”、“微机安装与调试”小程序
