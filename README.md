@@ -97,10 +97,9 @@
 
 2019年6月为招新小程序编写的任务书：
 
-|||
-|--|--|
-| <img src="img/zx1.png"> | <img src="img/zx2.png"> |
-| <img src="img/zx3.png"> |  |
+||||
+|--|--|--|
+| <img src="img/zx1.png"> | <img src="img/zx2.png"> | <img src="img/zx3.png"> |
 
 
 
