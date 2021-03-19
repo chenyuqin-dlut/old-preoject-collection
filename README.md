@@ -77,25 +77,29 @@
 
 2018年7月小学期进行微信小程序教学时用的文档，文风比较浮夸，但确实有用：
 
-<img src="img/xcx1.png" />
-<img src="img/xcx2.png" />
-<img src="img/xcx3.png" />
-<img src="img/xcx4.png" />
+|||
+|--|--|
+| <img src="img/xcx1.png"> | <img src="img/xcx2.png"> |
+| <img src="img/xcx3.png"> | <img src="img/xcx4.png"> |
+
 
 2018年12月使用surface为微机安装与调试小程序手绘的原型图，要说美观是不太美观，要说起作用还是起了点作用：
 
-<img src="img/yxt.png" />
+<img src="img/yxt.png" width="50%"/>
 
 2019年1月为选课小程序编写的任务书：
+|||
+|--|--|
+| <img src="img/kzrj1.png"> | <img src="img/kzrj2.png"> |
 
-<img src="img/kzrj1.png" />
-<img src="img/kzrj2.png" />
 
 2019年6月为招新小程序编写的任务书：
 
-<img src="img/zx1.png" />
-<img src="img/zx2.png" />
-<img src="img/zx3.png" />
+|||
+|--|--|
+| <img src="img/zx1.png"> | <img src="img/zx2.png"> |
+| <img src="img/zx3.png"> |  |
+
 
 
 
